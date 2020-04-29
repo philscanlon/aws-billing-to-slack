@@ -38,3 +38,4 @@ If you have AWS credits on your account and want to see them taken into account 
         --credits_remaining_date="mm/dd/yyyy" \
         --credits_remaining="xxx.xx"
     ```
+
